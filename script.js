@@ -55,6 +55,8 @@ function getPasswordLength() {
 
   if (passwordLength < 8 || passwordLength > 128) {
     return getPasswordLength();
+  } else if (/^[A-Za-z\s]*$/.test(passwordLength)) {
+    return getPasswordLength();
   }
   return passwordLength;
 }
