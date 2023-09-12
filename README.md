@@ -15,7 +15,8 @@ You can experience it at drewhouses.github.io/m3-password-generator
 
 ## Usage
 
-Navigate to the deployed web application at drewhouses.github.io/m3-password-generator
+Navigate to the deployed web application at [here](drewhouses.github.io/m3-password-generator)
+
 Click the 'Generate Password' button to get started
 Follow the prompts
 Ta-da! Your Password
